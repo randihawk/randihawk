@@ -8,13 +8,9 @@ For the Barro Lee Data Set, there were no barriers to access. It might be hard t
 
 I used the Search function for digital-preservation, browsed, and then starred two repositories. One looked really interesting because it is a public repository (not all are) of Digital Preservation Software for the National Archives of Australia. It makes sense that they would keep that software here. The other repository I starred was seanofw/spacemonger1 which is an archive of an older version of that software. Spacemonger is a "cleanup" tool that frees up storage on a hard drive. 
 
-
 - 🔭 I’m currently working on finishing up my Drexel MLIS.
-- 🌱 I’m currently learning about Github.
 - 👯 I’m looking to collaborate on a metadata project at an academic library.
-- 🤔 I’m looking for help with finding a job....
 - 💬 Ask me about my husband; he is amazing. ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: she, her ...
 - ⚡ Fun fact: I am sporty, and I am stronger than I look!
 -->
